@@ -1,2 +1,2 @@
-# fokin-weather
+# weather-app
 Learning react native
